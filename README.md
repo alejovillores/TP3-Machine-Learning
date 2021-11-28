@@ -27,11 +27,11 @@ Ayudante asignado: Natalia Golmar
 
 **Parte II**
 
-<***Modelo***>  [Notebook](https://github.com/alejovillores/TP3-Machine-Learning/blob/main/Parte%203.ipynb)
+<***Modelo***>  [Notebook](https://github.com/alejovillores/TP3-Machine-Learning/blob/main/Parte%202.ipynb)
 
 ---
 
-**Parte II**
+**Parte III**
 
 <***Modelo***>  [Notebook](https://github.com/alejovillores/TP3-Machine-Learning/blob/main/Parte%203.ipynb)
 
