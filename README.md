@@ -19,6 +19,10 @@ Ayudante asignado: Natalia Golmar
 
 **Consulta 4:**  <***BoxPlot***>  [Notebook](https://github.com/alejovillores/TP3-Machine-Learning/blob/main/transaccions_boxplot.ipynb)
 
+**Consulta 5:**  <***BarPlot***>  [Notebook](https://github.com/alejovillores/TP3-Machine-Learning/blob/main/bar2.ipynb)
+
+**Consulta 6:**  <***HistPlot***>  [Notebook](https://github.com/alejovillores/TP3-Machine-Learning/blob/main/histograma.ipynb)
+
 ---
 
 **Parte II**
