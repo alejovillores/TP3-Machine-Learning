@@ -17,15 +17,17 @@ Ayudante asignado: Natalia Golmar
 
 **Consulta 3:**  <***ViolinPlot***>  [Notebook](https://github.com/alejovillores/TP3-Machine-Learning/blob/main/violinplot.ipynb) 
 
-**Consulta 4:**  <***BoxPlot***>  [Notebook](https://github.com/alejovillores/TP3-Machine-Learning/blob/main/transaccions_boxplot.ipynb) 
+**Consulta 4:**  <***BoxPlot***>  [Notebook](https://github.com/alejovillores/TP3-Machine-Learning/blob/main/transaccions_boxplot.ipynb)
+
 ---
 
-**Parte II **
+**Parte II**
 
 <***Modelo***>  [Notebook](https://github.com/alejovillores/TP3-Machine-Learning/blob/main/Parte%203.ipynb)
+
 ---
 
-**Parte II **
+**Parte II**
 
 <***Modelo***>  [Notebook](https://github.com/alejovillores/TP3-Machine-Learning/blob/main/Parte%203.ipynb)
 
