@@ -35,3 +35,4 @@ Ayudante asignado: Natalia Golmar
 
 <***Modelo***>  [Notebook](https://github.com/alejovillores/TP3-Machine-Learning/blob/main/Parte%203.ipynb)
 
+Nota: 20/25
